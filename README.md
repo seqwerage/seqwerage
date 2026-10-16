@@ -1,29 +1,45 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="seqwerage">
+  <img src="assets/banner.svg" width="100%" alt="seqwerage. My phone knows when I've had enough TikTok. My server sits through my lectures and takes notes. Both run on code I wrote.">
 </p>
 
-I build things that run on their own: AI pipelines that listen, transcribe and plan, apps I use every day, and tools for taking other software apart to see how it works.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-do-light.svg">
+  <img src="assets/h-do.svg" width="100%" alt="What I do">
+</picture>
 
-Most of my code lives in private repos. These are the projects I can show.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/do-light.svg">
+  <img src="assets/do.svg" width="100%" alt="Automation, apps, web, under the hood, renders">
+</picture>
 
-<img src="assets/h-work.svg" width="100%" alt="Selected work">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-work-light.svg">
+  <img src="assets/h-work.svg" width="100%" alt="Selected work">
+</picture>
 
-<img src="assets/card-cadence.svg" width="100%" alt="Cadence">
+<img src="assets/card-cadence.svg" width="100%" alt="Cadence: the app that runs my day">
+
+<img src="assets/card-study.svg" width="100%" alt="Study engine: lectures to notes to practice tests, every answer key re-checked">
 
 <p>
-  <img src="assets/card-mathege.svg" width="49%" alt="MathEGE">
   <img src="assets/card-audioteka.svg" width="49%" alt="Audioteka">
-</p>
-<p>
-  <img src="assets/card-toydef.svg" width="49%" alt="Toy Defense mod">
   <img src="assets/card-debloat.svg" width="49%" alt="Galaxy debloat">
 </p>
 
-<img src="assets/h-stack.svg" width="100%" alt="Stack">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-stack-light.svg">
+  <img src="assets/h-stack.svg" width="100%" alt="Stack">
+</picture>
 
-<img src="assets/stack.svg" width="100%" alt="Mobile, web, backend, AI, low level, ops, media">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img src="assets/stack.svg" width="100%" alt="Mobile, web, backend, AI, low level, ops, renders">
+</picture>
 
-<img src="assets/h-activity.svg" width="100%" alt="Activity">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-activity-light.svg">
+  <img src="assets/h-activity.svg" width="100%" alt="Activity">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleksikgod/aleksikgod/output/snake-dark.svg">

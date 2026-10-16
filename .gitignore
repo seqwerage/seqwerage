@@ -1,3 +1,7 @@
 preview.html
 __pycache__/
 build.py
+preview-light.html
+_old/
+fonts/
+render/
