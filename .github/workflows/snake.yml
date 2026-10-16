@@ -15,13 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake-dark.svg?palette=github-dark&color_snake=#FF3B30&color_dots=#161616,#3a3a3a,#6b6b6b,#a7a7a7,#f2f2f2
             dist/snake-light.svg?color_snake=#FF3B30&color_dots=#ebedf0,#c6c6c6,#8e8e8e,#555555,#111111
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
         with:
           target_branch: output
           build_dir: dist
