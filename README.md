@@ -1,48 +1,44 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="seqwerage. My phone knows when I've had enough TikTok. My server sits through my lectures and takes notes. Both run on code I wrote.">
+  <img src="assets/banner.svg" width="100%" alt="seqwerage">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/h-do-light.svg">
-  <img src="assets/h-do.svg" width="100%" alt="What I do">
-</picture>
+<img src="assets/h-business.png" width="100%" alt="Business systems">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/do-light.svg">
-  <img src="assets/do.svg" width="100%" alt="Automation, apps, web, under the hood, renders">
-</picture>
+<img src="assets/calls.avif" width="100%" alt="Every sales call, on the record: calls are transcribed overnight and the deal gets a three-line summary by morning.">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/h-work-light.svg">
-  <img src="assets/h-work.svg" width="100%" alt="Selected work">
-</picture>
+<img src="assets/leads.avif" width="100%" alt="Zero lost leads: every form on every site lands in the CRM in seconds, tagged with its source and handed to the right manager.">
 
-<img src="assets/card-cadence.svg" width="100%" alt="Cadence: the app that runs my day">
+<img src="assets/prices.avif" width="100%" alt="Stores that update themselves: change a price once and every store, feed and map listing follows.">
 
-<img src="assets/card-study.svg" width="100%" alt="Study engine: lectures to notes to practice tests, every answer key re-checked">
+<img src="assets/churn.avif" width="100%" alt="See who stopped buying: ERP sales meet CRM history, regulars who went quiet are called back first.">
+
+<img src="assets/h-product.png" width="100%" alt="Product">
+
+<img src="assets/cadence.avif" width="100%" alt="Cadence: your whole day, run by one app.">
+
+<img src="assets/prizma.png" width="100%" alt="Prizma. Soon.">
+
+<img src="assets/h-agents.png" width="100%" alt="Agents">
+
+<img src="assets/agents.avif" width="100%" alt="Ghost, CoreNet and Nightshift.">
+
+<img src="assets/h-plugins.png" width="100%" alt="Plugins">
 
 <p>
-  <img src="assets/card-audioteka.svg" width="49%" alt="Audioteka">
-  <img src="assets/card-debloat.svg" width="49%" alt="Galaxy debloat">
+  <img src="assets/wide.avif" width="49%" alt="Wide: the ultra-wide 0.6x lens in Telegram's camera.">
+  <img src="assets/tldr.avif" width="49%" alt="TL;DR: 300 unread messages down to the three that matter.">
+</p>
+<p>
+  <img src="assets/focus.avif" width="49%" alt="Focus: twenty minutes of channels, then the feed locks until the top of the hour.">
+  <img src="assets/ghost.avif" width="49%" alt="Ghost mode: read everything, show nothing.">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/h-stack-light.svg">
-  <img src="assets/h-stack.svg" width="100%" alt="Stack">
-</picture>
+<img src="assets/h-stack.png" width="100%" alt="Stack">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img src="assets/stack.svg" width="100%" alt="Mobile, web, backend, AI, low level, ops, renders">
-</picture>
+<img src="assets/stack.png" width="100%" alt="Web, UI and motion, mobile, backend, AI, automation, integrations, 3D and ops.">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/h-activity-light.svg">
-  <img src="assets/h-activity.svg" width="100%" alt="Activity">
-</picture>
+<img src="assets/h-activity.png" width="100%" alt="Activity">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aleksikgod/aleksikgod/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleksikgod/aleksikgod/output/snake-light.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/aleksikgod/aleksikgod/output/snake-dark.svg" width="100%">
-</picture>
+<img src="assets/activity.avif" width="100%" alt="Commits over the last twelve months.">
+
+<a href="https://t.me/knps_nll"><img src="assets/contact.png" width="100%" alt="Let's build what your business is missing. Telegram @knps_nll, Discord seqwerage."></a>
