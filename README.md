@@ -16,7 +16,7 @@
 
 <img src="assets/cadence.avif" width="100%" alt="Cadence: your whole day, run by one app.">
 
-<img src="assets/prizma.png" width="100%" alt="Prizma. Soon.">
+<img src="assets/prizma.avif" width="100%" alt="Prizma. Soon.">
 
 <img src="assets/h-agents.png" width="100%" alt="Agents">
 
@@ -35,7 +35,7 @@
 
 <img src="assets/h-stack.png" width="100%" alt="Stack">
 
-<img src="assets/stack.png" width="100%" alt="Web, UI and motion, mobile, backend, AI, automation, integrations, 3D and ops.">
+<img src="assets/stack.avif" width="100%" alt="Web, UI and motion, mobile, backend, AI, automation, integrations, 3D and ops.">
 
 <img src="assets/h-activity.png" width="100%" alt="Activity">
 
